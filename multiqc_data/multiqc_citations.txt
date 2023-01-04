@@ -1,0 +1,5 @@
+10.1093/bioinformatics/btw354                      # MultiQC
+10.1186/s13059-018-1588-9                          # mirtrace
+10.5281/zenodo.45385                               # mirtop
+10.1093/bioinformatics/btp352                      # Samtools
+
